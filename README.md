@@ -1,6 +1,4 @@
-# Numerical linear algebra course, @SkolTech, Term 2, 2021
-
-This repository contains lectures and homeworks for Numerical linear algebra course. It will be updated as the class progresses.
+# Лабораторная работа
 
 | Лабораторная | Сдано/не сдано | 
 |:------:|:----------|
